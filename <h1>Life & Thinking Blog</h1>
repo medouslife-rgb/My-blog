@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<!DOCTYPE html><html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>مدونتي</title>
+  <title>Life & Thinking Blog</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -27,6 +26,9 @@
       border-radius: 8px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
+    .post h2 {
+      margin-top: 0;
+    }
     footer {
       text-align: center;
       padding: 10px;
@@ -37,19 +39,15 @@
 </head>
 <body>
   <header>
-    <h1>مرحبا بكم في مدونتي</h1>
-    <p>أكتب هنا أفكاري ومقالاتي</p>
-  </header>
-
-  <div class="container">
+    <h1>Life & Thinking Blog</h1>
+    <p>A space where I share thoughts, life lessons, and reflections.</p>
+  </header>  <div class="container">
     <div class="post">
-      <h2>أول مقال</h2>
-      <p>هذا أول مقال في المدونة. يمكنك تغييره وكتابة ما تريد.</p>
+      <h2>My First Post</h2>
+      <p>This is my first article on this blog. Here I share my thoughts and ideas about life.</p>
     </div>
-  </div>
-
-  <footer>
-    © 2026 - مدونتي
+  </div>  <footer>
+    © 2026 - Life & Thinking Blog
   </footer>
 </body>
 </html>
